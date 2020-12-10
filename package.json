@@ -1,0 +1,8 @@
+{
+  "name": "React-PayPal-Integration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jevoncochran/React-Paypal-Integration.git",
+  "author": "Jevon Cochran <jevon.cochran@gmail.com>",
+  "license": "MIT"
+}
